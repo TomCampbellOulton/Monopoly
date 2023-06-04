@@ -1,0 +1,16 @@
+"Advance to the nearest travel square. If UNOWNED, you may buy it from the bank. If OWNED, pay owner twice the rental to which they are otherwise entitled."; "Move to: nearest travel square"],
+"Get out of jail free. This card may be kept until needed or traded."; "Get Out Of Jail Free"],
+"Go to jail. Go directly to jail. Do not pass GO. Do not collect $200."; "Move To: Jail"],
+"Congratulations! You've won a month's free Stagecoach Bus Travel. Collect $50."; "Collect: $050"],
+"Advance to the nearest Utility. If UNOWNED, you may buy it from the bank. If OWNED, throw dice and pay owner 10 times amount thrown."; "Move to: nearest utility"],
+"Advance to Eurocanterbury Volkswagen. If you pass GO, collect $200."; "Move to: 25"],
+"Take a trip to Canterbury East. If you pass GO, collect $200."; "Move to: 06"],
+"Congratulations! You have won a shopping spree at Fenwick Canterbury. Collect $150."; "Collect: $150"],
+"You are caught plyaing at the ducking stool. Pay each player $25."; "Pay to each player: $025"],
+"Advance to the nearest travel square. If UNOWNED, you may buy it from the bank. If OWNED, pay owner twice the rental to which they are otherwise entitled."; "Move to: nearest travel square"], # Occurs twice on board game so is not a mistake :)
+"You are playing Cricket at St Edmunds School Canterbury and hit a six through the head's window. Pay $15."; "Pay: $15"],
+"Make general repairs on all your properties. For each house, pay $25, for each hotel pay $100."; "building repairs: 025 100"],
+"Congratulations! You've achieved a first class honours degree from the University of Kent. Advance to Canterbury Cathedral for graduation."; "Move to: 40"],
+"You forgot you Unikent Campus Bus Pass and have to walk up the hill to the University of Kent. Go back three spaces."; "Move to: back 3 spaces"],
+"Advance to GO."; "Move to: 01"],
+"You've won two tickets for the next T20 match. Advance to the Spitfire Ground, St Lawrence. If you pass GO, collect $200."; "Move to: 12"]
